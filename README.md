@@ -403,19 +403,10 @@ My Cambridge English results also included **B2-level performance in Reading, Wr
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=luizhenriqueramos&show_icons=true&hide_border=true&include_all_commits=true"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhenriqueramos&layout=compact&hide_border=true&langs_count=6"
-/>
-
-</div>
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luizhenriqueramos&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhenriqueramos&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
